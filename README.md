@@ -1,0 +1,2 @@
+# Hospital.VM
+Ejemplo
